@@ -57,22 +57,6 @@ Sistem Informasi Reservasi dan Rekam Medis berbasis web yang dikembangkan sebaga
 
 ---
 
-## 📸 Preview
-
-### Login
-> *Tambahkan screenshot halaman login di sini.*
-
-### Dashboard Admin
-> *Tambahkan screenshot dashboard admin.*
-
-### Reservasi Online
-> *Tambahkan screenshot halaman reservasi.*
-
-### Rekam Medis
-> *Tambahkan screenshot halaman rekam medis.*
-
----
-
 ## 🚀 Instalasi
 
 Clone repository
